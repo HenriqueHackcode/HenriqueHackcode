@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Henrique Hackbart Neto
+# Henrique Hackbart Neto
 
 **`Desenvolvedor FullStack`**
 
