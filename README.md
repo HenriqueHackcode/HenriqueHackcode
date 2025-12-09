@@ -13,7 +13,7 @@ Então fiz esse investimento, uma mudança total, adquiri o curso online e come�
 Ensino médio completo, com cursos técnicos na área de informática e programação. Python - JavaScript - HTML5 - CSS3 - SQL - AWS - GIT&GITHUB. Cursos concluídos na plataforma de ensino online www.portalhashtag.com.
 
 ### 🚀 Objetivo atual 
-Atualmente estou a me desenvolver na parte de desenvolvimento web junior, aprendendo cada dia mais e mais!
+Atualmente estou a me desenvolver na parte de desenvolvimento web, aprendendo cada dia mais e mais!
 
 Segue abaixo meu portifólio, projetos dos cursos e pessoal.
 
@@ -104,25 +104,7 @@ Segue abaixo meu portifólio, projetos dos cursos e pessoal.
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <br/>
-<br/>
-### 📊 Estatísticas
 
-<p>
-  
-  <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200"
-      style="padding-right: 10px;"  
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriquehackcode&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api?username=henriquehackcode&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
 
-</p>
 
 
