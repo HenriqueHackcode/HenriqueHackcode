@@ -3,17 +3,17 @@
 **`Desenvolvedor Frontend`**
 
 ### 👨‍💻 Sobre mim 
-Olá, eu sou Henrique Hackbart Neto, natural do Espirito Santo, Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por muitos anos. 
+Olá, eu sou Henrique Hackbart Neto, natural do estado de Espirito Santo - Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por mais de 14 anos. 
 
 ### 🎯 Minha transição de carreira
-No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive uma grande vontade de aprender a parte de software/programação.
+No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive grande vontade de aprender a parte de software/programação.
 Então fiz esse investimento nos estudos, uma mudança total de rotina, adquiri 1 ano de estudo em uma plataforma online, com vários cursos de liguagem de programação, e assim comecei a minha jornada para se tornar um desenvolvedor. 
 
 ### 📚 Formação e cursos 
-Ensino médio, cursos técnicos na área de informática e programação. Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. Cursos com certificados de conclusão e número de registro.
+Ensino médio, cursos técnicos na área de informática e programação. Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. Cursos com certificados de conclusões e número de registro.
 
 ### 🚀 Objetivo atual 
-Atualmente estou a me desenvolver na parte de front end com foco na biblioteca React e framework Next.js, aprendendo cada dia mais e mais!
+Atualmente estou a me desenvolver na parte de frontend com foco na biblioteca React e framework Next.js, trabalhando como free lancer, criando projetos reais, aprendendo a cada dia mais e mais!
 
 Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
 
@@ -105,9 +105,10 @@ Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
 />
 <br clear="left"/>
 
-<p align="center">
+<div align="center" style="margin: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueHackcode&theme=tokyonight" />
-</p>
+</div>
+
 
 
 
