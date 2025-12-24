@@ -3,7 +3,7 @@
 **`Desenvolvedor Frontend | React`**
 
 ### 👨‍💻 Sobre mim 
-Olá, sou natural de Vitória – ES e apaixonado por tecnologia. <br>Atuei por mais de 14 anos como técnico em informática, o que me deu uma base sólida em sistemas e manutenção de hardware, resolução de problemas e contato direto com os clientes.
+Olá, sou natural de Vitória – ES e apaixonado por tecnologia, com foco em desenvolvimento frontend. <br>Atuei por mais de 14 anos como técnico em informática, o que me deu uma base sólida em sistemas e manutenção de hardware, resolução de problemas e contato direto com os clientes.
 
 ### 🎯 Minha transição de carreira
 No final de 2024 decidi dar um passo além do suporte técnico e migrar para o desenvolvimento de software. 
@@ -20,10 +20,10 @@ Desde então, venho investindo intensamente em estudos e projetos práticos, mud
 
 ### 🚀 Objetivo atual 
 Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e Next.js.
-- Busco minha primeira oportunidade como Desenvolvedor Frontend Júnior, preferencialmente em startups, onde eu possa crescer tecnicamente e gerar impacto com código de qualidade.
+- Tenho como objetivo atuar como Desenvolvedor Frontend Júnior, preferencialmente em startups, onde eu possa crescer tecnicamente e gerar impacto com código de qualidade.
 
 
-**Segue abaixo meu portifólio**, com projetos dos cursos e pessoal.
+**Segue abaixo meu portifólio**, com projetos de cursos e projetos pessoais.
 
 ---
 
