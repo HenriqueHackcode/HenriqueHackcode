@@ -1,6 +1,6 @@
 # Henrique Hackbart Neto
 
-**`Desenvolvedor Front End`**
+**`Desenvolvedor Frontend`**
 
 ### 👨‍💻 Sobre mim 
 Olá, eu sou Henrique Hackbart Neto, natural do Espirito Santo, Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por muitos anos. 
