@@ -6,14 +6,18 @@
 Olá, eu sou Henrique Hackbart Neto, natural do estado de Espirito Santo - Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por mais de 14 anos. 
 
 ### 🎯 Minha transição de carreira
-No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive grande vontade de aprender a parte de software/programação.
-Então fiz esse investimento nos estudos, uma mudança total de rotina, adquiri 1 ano de estudo em uma plataforma online, com vários cursos de liguagem de programação, e assim comecei a minha jornada para se tornar um desenvolvedor. 
+No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive grande vontade de aprender a parte de desenvolvimento de software em geral.
+Então fiz esse investimento nos estudos, uma mudança total de rotina, adquiri 1 ano de estudo em uma plataforma de ensino de várias linguagem de programação online. 
+E assim comecei a minha jornada para se tornar um desenvolvedor. 
 
 ### 📚 Formação e cursos 
-Ensino médio, cursos técnicos na área de informática e programação. Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. Cursos com certificados de conclusões e número de registro.
+Ensino médio, cursos técnicos na área de informática e programação. 
+Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. 
+Cursos com certificados de conclusões e número de registro.
 
 ### 🚀 Objetivo atual 
 Atualmente estou a me desenvolver na parte de frontend com foco na biblioteca React e framework Next.js, trabalhando como free lancer, criando projetos reais, aprendendo a cada dia mais e mais!
+“ Busco minha primeira oportunidade em uma startup de técnologia, como Desenvolvedor Frontend Júnior, com foco em React e Next.js…”
 
 Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
 
