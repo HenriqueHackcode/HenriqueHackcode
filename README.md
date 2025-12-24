@@ -103,7 +103,11 @@ Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
-<br/>
+<br clear="left"/>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueHackcode&theme=tokyonight" />
+</p>
 
 
 
