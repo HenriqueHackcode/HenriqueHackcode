@@ -3,19 +3,19 @@
 **`Desenvolvedor FullStack`**
 
 ### 👨‍💻 Sobre mim 
-Me chamo Henrique Hackbart Neto, tenho 40 anos e sou natural do Espirito Santo, Vitória.  Sou apaixonado por tecnologia e informática, começei aos 16 anos com aulas de informática na escola SESI e me apaixonei, consegui meu primeiro trabalho como técnico de informática aos 18 anos, trabalhei no laboratório apenas com manutenção de informática durante os 3 primeiros mesês, tive a oportunidade de fazer um curso de Cash Bancário, cujo o nome dessa empresa é PertoSA - SP, então começei a fazer manunteção nas máquinas de modúlo de saque, na epoca atendia alguns bancos, Caixa Econômica, Banco do Brasil e Sicoob. Fiquei nesse ramo durante uns 2 anos, depois desse periódo resolvi trabalhar por conta própria, como técnico de informática, e foram mais de 18 anos nessa área como autônomo. 
+Olá, eu sou Henrique Hackbart Neto, natural do Espirito Santo, Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por muitos anos. 
 
 ### 🎯 Minha transição de carreira
-Porém no final do 2024 eu queria mais, não apenas ser técnico em Hardware, sempre tive uma grande vontade de aprender a parte de software/programação.
-Então fiz esse investimento, uma mudança total, adquiri o curso online e começei aprender a tão sonhada linguagem de programação. 
+No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive uma grande vontade de aprender a parte de software/programação.
+Então fiz esse investimento nos estudos, uma mudança total de rotina, adquiri 1 ano de estudo em uma plataforma online, com vários cursos de liguagem de programação, e assim comecei a minha jornada para se tornar um desenvolvedor. 
 
 ### 📚 Formação e cursos 
-Ensino médio completo, com cursos técnicos na área de informática e programação. Python - JavaScript - HTML5 - CSS3 - SQL - AWS - GIT&GITHUB. Cursos concluídos na plataforma de ensino online www.portalhashtag.com.
+Ensino médio, cursos técnicos na área de informática e programação. Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. Cursos com certificados de conclusão e número de registro.
 
 ### 🚀 Objetivo atual 
-Atualmente estou a me desenvolver na parte de desenvolvimento web, aprendendo cada dia mais e mais!
+Atualmente estou a me desenvolver na parte de front end com foco na biblioteca React e framework Next.js, aprendendo cada dia mais e mais!
 
-Segue abaixo meu portifólio, projetos dos cursos e pessoal.
+Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
 
 ---
 
