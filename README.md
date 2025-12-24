@@ -1,9 +1,9 @@
 # Henrique Hackbart Neto
 
-**`Desenvolvedor Frontend`**
+**`Desenvolvedor Frontend | React`**
 
 ### 👨‍💻 Sobre mim 
-Sou natural de Vitória – ES e apaixonado por tecnologia. <br>Atuei por mais de 14 anos como técnico em informática, o que me deu uma base sólida em sistemas, resolução de problemas e contato direto com usuários.
+Olá, sou natural de Vitória – ES e apaixonado por tecnologia. <br>Atuei por mais de 14 anos como técnico em informática, o que me deu uma base sólida em sistemas e manutenção de hardware, resolução de problemas e contato direto com os clientes.
 
 ### 🎯 Minha transição de carreira
 No final de 2024 decidi dar um passo além do suporte técnico e migrar para o desenvolvimento de software. 
