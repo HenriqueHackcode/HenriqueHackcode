@@ -3,23 +3,27 @@
 **`Desenvolvedor Frontend`**
 
 ### 👨‍💻 Sobre mim 
-Olá, eu sou Henrique Hackbart Neto, natural do estado de Espirito Santo - Vitória.  Sou uma pessoa apaixonado por tecnologia, técnico em informática por mais de 14 anos. 
+Sou natural de Vitória – ES e apaixonado por tecnologia. <br>Atuei por mais de 14 anos como técnico em informática, o que me deu uma base sólida em sistemas, resolução de problemas e contato direto com usuários.
 
 ### 🎯 Minha transição de carreira
-No final do 2024 eu queria mais, não apenas trabalhar com suporte técnico em hardware, sempre tive grande vontade de aprender a parte de desenvolvimento de software em geral.
-Então fiz esse investimento nos estudos, uma mudança total de rotina, adquiri 1 ano de estudo em uma plataforma de ensino de várias linguagem de programação online. 
-E assim comecei a minha jornada para se tornar um desenvolvedor. 
+No final de 2024 decidi dar um passo além do suporte técnico e migrar para o desenvolvimento de software. 
+Desde então, venho investindo intensamente em estudos e projetos práticos, mudando completamente minha rotina para evoluir como desenvolvedor.
 
 ### 📚 Formação e cursos 
-Ensino médio, cursos técnicos na área de informática e programação. 
-Python - JavaScript - React - HTML5 - CSS3 - SQL - AWS - N8N - Git & Github. 
-Cursos com certificados de conclusões e número de registro.
+- Técnico em Informática
+- Estudo contínuo em plataformas online com certificações 
+- **Stack**:
+   - Frontend: HTML5, CSS3, JavaScript, React, Next.js
+   - Backend / Base: Node.js, SQL.
+   - Ferramentas: Git, GitHub, AWS, n8n. 
+   - Cursos com certificados de conclusões e número de registro.
 
 ### 🚀 Objetivo atual 
-Atualmente estou a me desenvolver na parte de frontend com foco na biblioteca React e framework Next.js, trabalhando como free lancer, criando projetos reais, aprendendo a cada dia mais e mais!
-“ Busco minha primeira oportunidade em uma startup de técnologia, como Desenvolvedor Frontend Júnior, com foco em React e Next.js…”
+Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e Next.js.
+- Busco minha primeira oportunidade como Desenvolvedor Frontend Júnior, preferencialmente em startups, onde eu possa crescer tecnicamente e gerar impacto com código de qualidade.
 
-Segue abaixo meu portifólio, com projetos dos cursos e pessoal.
+
+**Segue abaixo meu portifólio**, com projetos dos cursos e pessoal.
 
 ---
 
