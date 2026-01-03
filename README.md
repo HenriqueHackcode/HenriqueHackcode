@@ -89,8 +89,8 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
 />
 <img 
     align="left"
-    alt="Postgree"
-    title="Postgree"
+    alt="PostgreeSQL"
+    title="PostgreeSQL"
     width="30px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
@@ -103,6 +103,30 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" 
   />
+<img 
+  align="left"
+  alt="AWS"
+  title="AWS"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"
+/>
+<img 
+  align="left"
+  alt="Git"
+  title="Git"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
+/>
+<img 
+  align="left"
+  alt="GitHub"
+  title="GitHub"
+  width="30px"
+  style="padding-right: 10px;" 
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+/>
 
 
 
