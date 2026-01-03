@@ -116,7 +116,7 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
 <div align="center" style="margin: 20px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HenriqueHackcode&theme=tokyonight" />
 </div>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HenriqueHackcode&show_icons=true&theme=tokyonight&hide_rank=true)
+
 
 
 
