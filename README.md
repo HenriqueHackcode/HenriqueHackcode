@@ -125,8 +125,9 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
   title="GitHub"
   width="30px"
   style="padding-right: 10px;" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+  src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
 />
+
 
 
 
