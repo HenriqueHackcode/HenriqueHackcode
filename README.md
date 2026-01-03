@@ -30,8 +30,6 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
 ### Linguagens e Tecnologias
 
 <br/>
-
-
 <img 
     align="left" 
     alt="JavaScript" 
@@ -64,7 +62,6 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Python" 
