@@ -30,6 +30,7 @@ Atuo como freelancer frontend, desenvolvendo projetos reais com foco em React e 
 ### Linguagens e Tecnologias
 
 <br/>
+
 <img 
     align="left" 
     alt="JavaScript" 
